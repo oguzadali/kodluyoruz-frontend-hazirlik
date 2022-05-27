@@ -19,6 +19,8 @@ Kodluyoruz Frontend bootcamp hazırlık html ödevleri
 ### Hafta 3 CSS Odev2 - Google ilk versiyonunun kopyası
 ![odev2](https://user-images.githubusercontent.com/67098980/168483919-6abc4375-8aa3-489c-bbed-58d21582fe3a.png)
 
+### Hafta 3 CSS Odev3 - Google son versiyonunun kopyası
+![odev3](https://user-images.githubusercontent.com/67098980/170793992-776c2060-1cfe-4a4c-8dda-52ade04459af.png)
 
 
 ## Patika.dev
