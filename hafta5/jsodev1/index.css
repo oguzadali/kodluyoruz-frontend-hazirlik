@@ -1,0 +1,14 @@
+.main {
+    text-align: center;
+    padding: 20px;
+}
+
+body {
+    background: #33383E;
+}
+
+h2,
+h4,
+p {
+    color: orange;
+}
