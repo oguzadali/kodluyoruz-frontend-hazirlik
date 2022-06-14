@@ -27,6 +27,11 @@ Kodluyoruz Frontend bootcamp hazırlık html ödevleri
 
 ![2022-05-29_15-39-11](https://user-images.githubusercontent.com/67098980/170868922-920b4ad0-b4ac-4cea-af4a-19e4ca52c426.png)
 
+### Hafta 6 JS Odev2 - To Do List Projesi
+![2022-06-15_01-57-22](https://user-images.githubusercontent.com/67098980/173705856-1bcd119b-c695-4dc3-92ec-09b198cb92d7.png)
+
+### Hafta 6 JS Odev3 - Yemek Menüsü Projesi
+![2022-06-15_02-25-51](https://user-images.githubusercontent.com/67098980/173705865-9c6e996e-405e-4284-9d77-fad4881ac32f.png)
 
 ## Patika.dev
 [Patika.dev](www.patika.dev)
