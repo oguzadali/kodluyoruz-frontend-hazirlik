@@ -33,6 +33,14 @@ Kodluyoruz Frontend bootcamp hazırlık html ödevleri
 ### Hafta 6 JS Odev3 - Yemek Menüsü Projesi
 ![2022-06-15_02-25-51](https://user-images.githubusercontent.com/67098980/173705865-9c6e996e-405e-4284-9d77-fad4881ac32f.png)
 
+### Frontend Başlangıç Bootstrap Odev1 
+![2022-07-17_23-22-24](https://user-images.githubusercontent.com/67098980/179423712-d78b507a-bcd3-4b98-afa6-56a0251ce46a.png)
+
+![2022-07-17_23-22-37](https://user-images.githubusercontent.com/67098980/179423719-cb0a30a8-fe05-46e9-b9d0-fc40a0411fce.png)
+
+![2022-07-17_23-22-49](https://user-images.githubusercontent.com/67098980/179423722-df1459a0-2fc5-4e47-8349-29c6aeadb23d.png)
+
+
 ## Patika.dev
 [Patika.dev](www.patika.dev)
 
