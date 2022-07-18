@@ -40,6 +40,9 @@ Kodluyoruz Frontend bootcamp hazırlık html ödevleri
 
 ![2022-07-17_23-22-49](https://user-images.githubusercontent.com/67098980/179423722-df1459a0-2fc5-4e47-8349-29c6aeadb23d.png)
 
+### Frontend Başlangıç Bootstrap Odev2 
+![2022-07-18_04-59-41](https://user-images.githubusercontent.com/67098980/179435866-0c1e581c-67a9-4eb0-9af8-41956f9ac357.png)
+
 
 ## Patika.dev
 [Patika.dev](www.patika.dev)
